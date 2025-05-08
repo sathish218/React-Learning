@@ -1,0 +1,13 @@
+ form{
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 40px;
+    background-color: gold;
+    width: 200px;
+    border-radius: 5px;
+
+ }
